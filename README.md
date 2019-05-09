@@ -1,9 +1,6 @@
 # TheCalculator
 Calculator of expressions with creating and using functions and variables
 
-# TheCalculator
-Calculator of expressions with creating and using functions and variables
-
 ## Main commands:
 * `help` — print help message
 * `print state` — print defined variables and functions
